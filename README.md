@@ -21,7 +21,7 @@ Eqnoxx 方年年 | 2021.07.01 - 现在
 - 阅读《Rust 编程之道》，学习 Rust，并在 LeetCode 练习语法。
 - 阅读《自己动手写 cpu》，学习 Verilog。
 
-### 七月 ###
+### [七月](https://github.com/Eqno/DailyRecord/blob/master/2021-07.md) ###
 ##### 本月收获 #####
 
 - 开始记录日程。
